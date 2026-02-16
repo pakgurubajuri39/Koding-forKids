@@ -1,0 +1,5 @@
+{
+  "name": "Ramadan Code Quest",
+  "description": "An interactive coding game for elementary students to learn logic and critical thinking by guiding a character through Ramadan-themed puzzles using drag-and-drop programming blocks.",
+  "requestFramePermissions": []
+}
